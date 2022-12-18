@@ -1,0 +1,96 @@
+
+* {
+margin: 0;
+padding: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header {
+color: white;
+margin-left: 15px;
+background-image: url("coffee.webp ") ;
+background: opacity 0.5em;
+}
+div#header>p{
+margin-top: 15px;
+}
+
+ul {
+list-style-type: none;
+padding: 0%;
+margin: 0%;
+width: 125px;
+margin-top: 2px;
+margin-right: 10px;
+float: left;
+}
+
+li {
+
+color: white;
+background-color:rgb(56, 27, 27);
+float: right;
+border-radius: 20px;
+margin-top: 7px;
+text-align: center;
+width: 125px;
+height: 25px;
+padding-top: 7px;
+
+}
+
+li:hover {
+background-color: rgba(247, 205, 194, 0.964);
+color: white;
+
+}
+
+a {
+
+color:white;
+text-decoration: none;
+}
+
+.section1 {
+background-color: rgba(247, 205, 194, 0.964);
+color: white;
+padding-left: 7px;
+padding-right: 7px;
+padding-top: 10px;
+}
+
+div.section1{
+height: 235px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 30px;
+}
+
+p.section1 a {
+background-color:rgba(247, 205, 194, 0.964);
+color: rgb(63, 34, 34);
+
+}
+
+h1.section1,h2.section1 {
+color: rgb(63, 34, 34);
+}
+
+.section2 {
+background-color: rgb(143, 93, 81);
+color: white;
+margin-left: 10px;
+margin-right: 10px;
+padding-top: 7px;
+}
+
+div.section2 {
+height: 85px;
+}
+
+#bottom {
+color: white;
+margin-left: 25px;
+margin-top: 7px;
+text-align: center;
+}
